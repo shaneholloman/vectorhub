@@ -170,22 +170,22 @@
     "comment": ""
   },
   "github_stars": {
-    "value": 7031,
+    "value": 7035,
     "source_url": "https://github.com/vespa-engine/vespa",
     "comment": "",
     "value_90_days": 0
   },
   "docker_pulls": {
-    "value": 14710823,
+    "value": 14753730,
     "source_url": "https://hub.docker.com/r/vespaengine/vespa",
     "comment": "",
     "value_90_days": 0
   },
   "pypi_downloads": {
-    "value": 35373991,
+    "value": 39594990,
     "source_url": "https://pypi.org/project/pyvespa/",
     "comment": "",
-    "value_90_days": 30884219
+    "value_90_days": 34497595
   },
   "npm_downloads": {
     "value": 0,
